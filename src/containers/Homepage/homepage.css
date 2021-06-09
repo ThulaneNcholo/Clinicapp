@@ -1,0 +1,44 @@
+
+
+.changed-color{
+    color: white;
+}
+
+.rounded-corner {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.icon-color{
+    color: #198754;
+}
+
+.spacing-bottom{
+    height: 200px;
+}
+
+.rounded-corner-jumbo {
+    border-bottom-left-radius: 150px;
+}
+
+.removed-underline{
+    text-decoration: none;
+    color: black;
+}
+
+
+.resizing{
+    height: 100px;
+    width: 100%;
+}
+
+.rounded-corner-jumbo-clinics {
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+
+.home-bottom{
+    margin-top: 50px;
+}

@@ -1,0 +1,34 @@
+
+
+.referral-bg{
+    background-color: #2A265F;
+}
+
+.referral-text-color{
+    color: white;
+}
+
+.referral-icon{
+    font-size: 45px;
+}
+
+.underline-ref{
+    height: 2px;
+    background-color:#198754;
+}
+
+
+.ref-direction{
+    color: #198754;
+    font-size: 14px;
+}
+
+.icon-text{
+    color: grey;
+    font-size: 13px;
+}
+
+.referral-bottom{
+    height: 70px;
+    width: 100%;
+}

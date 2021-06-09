@@ -1,0 +1,17 @@
+.no-appt-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  transition: top 0.3s;
+   z-index:1;
+}
+
+.header-margin-no-apt {
+  margin-top: 54px;
+}
+
+
+.No-appt-spacing{
+  height: 60px;
+  width: 100%;
+}

@@ -1,0 +1,63 @@
+
+.price{
+    margin-block-start: auto;
+    border-bottom-left-radius: 10px;
+}
+
+.greenline{
+    height: 100%;
+    width: 3px;
+}
+
+.appt-text{
+    color: white;
+}
+
+.location-bg{
+    background-color:#f6f6f6;
+}
+
+.header-bold{
+    font-weight: 500;
+}
+
+.my-appointments-margin{
+    margin-top: 90px;
+}
+
+.my-appt-spacing{
+    height: 70px;
+    width: 100%;
+}
+
+.appt-icon{
+    font-size: 23px;
+}
+
+.underline-grey{
+    background-color: grey;
+    height: 1px;
+    width: 100%;
+}
+
+.doctor-font{
+    font-size: 14px;
+    color: grey;
+}
+
+.directions{
+    font-size: 15px;
+    color: #198754;
+}
+
+.add-to-his{
+    background-color: #AEAEAE;
+}
+
+.my-appt-underline{
+    text-decoration: none;
+}
+
+.history-color{
+    color:  #198754;
+}

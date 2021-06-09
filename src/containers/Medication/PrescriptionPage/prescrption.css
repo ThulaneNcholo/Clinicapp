@@ -1,0 +1,42 @@
+
+.pres-img{
+  width: 80px;
+  height: 55px;
+  border-radius: 50%
+}
+
+.pres-text-color{
+    color: white;
+}
+
+.decoration-pres{
+    text-decoration: none;
+}
+
+.precription-sapce-bottom{
+    height: 150px;
+}
+
+.drug-color{
+    color: #198754;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.background-pres{
+    background-color: #ECECEC;
+}
+
+.date-style{
+    font-size: 12px;
+    color: grey;
+}
+
+.heading-text{
+    font-size: 15px;
+}
+
+
+.prescription-margin{
+    margin-top: 50px;
+}

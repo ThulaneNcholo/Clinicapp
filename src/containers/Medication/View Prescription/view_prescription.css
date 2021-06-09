@@ -1,0 +1,76 @@
+.header-pres{
+    height: 160px;
+    width: 100%;
+    background-color: #198754;
+    border-bottom-left-radius: 80px;
+}
+
+
+.margin-pres{
+    margin-top: 100px;
+}
+
+.main-color{
+    background-color: #000080;
+}
+
+.pdf-header{
+    height: 150px;
+    width: 100%;
+}
+
+.pdf-image{
+    height: 90px;
+}
+
+.pdf-text-color{
+    color: white;
+    font-size: 15px;
+}
+
+.buttom-pdf{
+    height: 500px;
+    width: 100%;
+}
+
+.added-height{
+    height: 200px;
+    width: 100%;
+}
+
+.e-prescription-margin-top{
+    margin-top: 50px;
+}
+
+.prescription-color{
+    color: white;
+}
+
+.headings-bg{
+    background-color: #E0E0E2;
+}
+
+.send-note{
+    font-size: 13px;
+}
+
+.font-size-pres{
+    font-size: 16px;
+}
+
+.normal-text{
+    color: #555555;
+}
+
+.pres-buttom{
+    height: 60px;
+    width: 100%;
+}
+
+.view-deco-none{
+    text-decoration: none;
+}
+
+.send-phamercy{
+    color: black;
+}

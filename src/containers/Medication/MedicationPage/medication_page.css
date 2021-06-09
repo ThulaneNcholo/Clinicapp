@@ -1,0 +1,35 @@
+.medication-header{
+    height: 180px;
+    background-color: #198754;
+    border-bottom-left-radius: 100px;
+}
+
+.medication-text{
+    color: white;
+}
+
+.meds-text-green{
+    color: #198754;
+}
+
+.space-bottom{
+    height: 150px;
+}
+
+.underline-meds{
+    height: 0.5px;
+    background-color: grey;
+}
+
+.card-text-meds{
+    color: grey;
+}
+
+.medication-margin{
+    margin-top: 50px;
+}
+
+.meds-for{
+    color: grey;
+    font-size: 13px;
+}

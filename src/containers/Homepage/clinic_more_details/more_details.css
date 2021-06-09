@@ -1,0 +1,43 @@
+
+.resizing-details{
+    height: 250px;
+    width: 100%;
+}
+
+.image-border {
+     border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.appt-border{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.text-color-clinics{
+    color: white;
+    font-size: 16px;
+}
+.headings-color{
+    color: #198754;
+}
+
+
+.spacing-bottom{
+    height: 200px;
+}
+
+.clinic-doctors-design{
+    border-top-right-radius: 3000px;
+}
+
+
+.text-color-clinics-dr{
+    color: #A6A6A8;
+}
+
+.remove-link-underline{
+    text-decoration: none;
+}

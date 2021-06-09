@@ -1,0 +1,29 @@
+
+
+.clinics-text-color-appt{
+    color: white;
+    font-size: 14px;
+}
+
+.please-note{
+    color: grey;
+    font-size: 12px;
+}
+
+.removed-link-clinics{
+    text-decoration: none;
+}
+
+.no-appt{
+    color: #586261;
+    font-size: 14px;
+}
+
+.clinic-title{
+    height: 55px;
+    width: 100%;
+}
+
+.clinic-title-text{
+    color: white;
+}

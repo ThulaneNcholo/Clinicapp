@@ -1,0 +1,26 @@
+
+
+.bottomnav{
+    /* height: 60px; */
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.bottmnav-text{
+    font-size: 12px;
+    color: white;
+}
+
+.icon-size{
+    font-size: 17px;
+    color: white;
+}
+
+.new-margin{
+    margin-bottom: 4px;
+}
+
+.decoration-removed{
+    text-decoration: none;
+}

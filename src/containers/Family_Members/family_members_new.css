@@ -1,0 +1,28 @@
+.text-color-family{
+    color: white;
+}
+
+.top-container{
+    height: 90px;
+    width: 100%;
+    border-bottom-left-radius: 200px;
+}
+
+.circle-size-member{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.family-margin{
+    margin-top: 50px;
+}
+
+.member{
+    height: 70px;
+    width: 100%;
+}
+
+.family-text-color{
+    color: grey;
+}

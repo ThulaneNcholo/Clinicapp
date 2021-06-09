@@ -1,0 +1,32 @@
+.underline-text{
+    height: 0.1px;
+    width: 100%;
+    background-color: #DEDEDE;
+}
+
+.new-background-color{
+    background-color: #D4D4D4;
+}
+
+.family-image{
+    height: 90px;
+    width: 120px;
+}
+
+.back-arrow{
+    background-color: #198754;
+}
+
+.edit-profile-text{
+    color: white;
+}
+
+.button-size{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.profile-space{
+    height: 70px;
+    width: 100%;
+}
